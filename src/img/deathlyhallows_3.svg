@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 409.1 355.3"
+    version="1.1"
+  >
+  <g id="imagebot_1" transform="translate(-97.425 -21.423)" >
+    <title id="title5">Layer 1</title>
+    <line
+        id="imagebot_6"
+        stroke-linejoin="round"
+        x1="301.91"
+        stroke-opacity="null"
+        transform="matrix(1 0 0 .97772 0 .5)"
+        x2="302.91"
+        stroke="#000"
+        stroke-linecap="round"
+        stroke-width="15"
+        y1="370.94"
+        y2="29.937"
+        fill="none"
+    />
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Deathly Hallows</dc:title>
+        <dc:date>2013-09-10T09:40:31</dc:date>
+        <dc:description>From Harry Potter and the Deathly Hallows</dc:description>
+        <dc:source>https://openclipart.org/detail/183279/deathly-hallows-by-ebby-183279</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ebby</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Deathly Hallows symbol</rdf:li>
+            <rdf:li>Harry Potter</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
